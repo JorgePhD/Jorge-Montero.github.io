@@ -43,7 +43,7 @@ Economics PhD student at Universidad de los Andes, interested in Applied Econome
 I’m an Economics PhD student at Universidad de los Andes. My primary interests are Environmental economics, Illegal Fishing and Development Economics.
 
 I will be in the Economics Job Markets in 2023-2024. You can find my CV <a href="https://jorgephd.github.io/jorge-montero.github.io/cv/CV_JorgeMontero.pdf">here</a>
-and my Job Market Paper <a href="https://jorgephd.github.io/jorge-montero.github.io/research/jmp/MPAs_Fishing_MRE_vf.pdf">here</a>.
+and my Job Market Paper <a href="https://jorgephd.github.io/jorge-montero.github.io/research/MPAs_Fishing_MRE_vf.pdf">here</a>.
 
 <br>  </br> <!--- Agrega lineas en blanco --->
 
