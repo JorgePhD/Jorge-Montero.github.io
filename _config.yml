@@ -1,3 +1,30 @@
-theme: jekyll-theme-minimal
-title: Octocat's homepage
-description: Bookmark this to keep an eye on my project updates!
+title: "Jorge L. Montero-Mestre"  
+name: "Jorge Montero"
+output_dir: "."
+
+ 
+# Navegation bar
+navbar:
+  title: "Jorge L. Montero-Mestre"  
+  type: inverse
+  right:
+    - text: "Home"
+      icon: fa-home
+      href: index.html
+    - text: "Research"
+      href: research.html
+    - text: "CV"
+      href: https://eduard-martinez.github.io/cv/CV-Eduard_F_Martinez_G.pdf
+
+    - text: "Teaching"
+      href: teaching.html
+
+      
+# Theme https://bookdown.org/yihui/rmarkdown/html-document.html
+output:
+      html_document:
+                    theme: cerulean
+                    mathjax: "http://example.com/MathJax.js"
+                    highlight: haddock
+                    css: css/style.css
+# Correr esto en la consola despues de cada cambio rmarkdown::render_site()
