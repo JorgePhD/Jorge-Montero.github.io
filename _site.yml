@@ -1,30 +1,33 @@
-title: "Jorge L. Montero-Mestre"  
-name: "Jorge Montero"
-output_dir: "."
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing these this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
- 
-# Navegation bar
-navbar:
-  title: "Jorge L. Montero-Mestre"  
-  type: inverse
-  right:
-    - text: "Home"
-      icon: fa-home
-      href: index.html
-    #- text: "Research"
-     # href: research.html
-    - text: "CV"
-      href: https://eduard-martinez.github.io/cv/CV-Eduard_F_Martinez_G.pdf
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: Jorge L. Montero-Mestre
+email: jl.montero (at) uniandes.edu.co
+description: Jorge L. Montero-Mestre
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://jorgephd.github.io/jorge-montero.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
-    #- text: "Teaching"
-    #  href: teaching.html
-      
-# Theme https://bookdown.org/yihui/rmarkdown/html-document.html
-output:
-      html_document:
-                    theme: cerulean
-                    mathjax: "http://example.com/MathJax.js"
-                    highlight: haddock
-                    css: css/style.css
-# Correr esto en la consola despues de cada cambio rmarkdown::render_site()
+# Build settings
+markdown: kramdown
+
+
+gems:
+  - jekyll-feed
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - packrat
 
