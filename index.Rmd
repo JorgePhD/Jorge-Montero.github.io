@@ -12,7 +12,7 @@ pagetitle : Home - Jorge L. Montero-Mestre
 
 #### Jorge L. Montero-Mestre
 
-Economics PhD student at Universidad de los Andes, interested in Applied Econometrics, Environmental and Development Economics.
+Economics PhD candidate at Universidad de los Andes, interested in Applied Econometrics, Development and Environmental Economics.
 
 <!-- Location -->
 <a href="https://www.google.com/maps/place/Bogotá/@4.6486259,-74.2478944,11z/data=!3m1!4b1!4m5!3m4!1s0x8e3f9bfd2da6cb29:0x239d635520a33914!8m2!3d4.7109886!4d-74.072092" style="color:black;"> <img alt="Qries" src="./images/location.png" width="20" height="20">  Bogotá, Colombia.</a>
@@ -40,10 +40,13 @@ Economics PhD student at Universidad de los Andes, interested in Applied Econome
 
 #### About me
 
-I’m an Economics PhD student at Universidad de los Andes. My primary interests are Environmental economics, Illegal Fishing and Development Economics.
+I am a Ph.D. candidate of Economics at the University of the Andes (Bogotá, Colombia). My research focuses on the field of Development Economics and Environmental Economics and Natural Resources. I have a particular interest in the illegal and unreported fishing, and analyzing the effects conservation instruments have on fishing. I holds an M.S. in Economics from University of the Andes, Colombia. Additionally, I have a B.S. in Economics from Universidad de Cartagena, Colombia. Moreover, I have actively participated in congresses such as the EfD annual meeting in 2022. When I am not teaching or conducting research, I enjoys walking and spending quality time with my daughter and wife.
 
-I will be in the Economics Job Markets in 2023-2024. You can find my CV <a href="https://jorgephd.github.io/jorge-montero.github.io/cv/Cv_JorgeMontero.pdf">here</a>
-and my Job Market Paper <a href="https://jorgephd.github.io/jorge-montero.github.io/research/MPAs_Fishing_MRE_vf.pdf">here</a>.
+Programming skills: Python, R, Bigquery and Stata.
+Languages: Spanish and  English
+
+I will be in the Economics Job Markets in 2024-2025. You can find my CV <a href="https://jorgephd.github.io/jorge-montero.github.io/cv/Cv_JorgeMontero.pdf">here</a>
+and my Job Market Paper <a href="https://github.com/JorgePhD/jorge-montero.github.io/blob/main/research/Lockdown_and_Fishing.pdf">here</a>.
 
 <br>  </br> <!--- Agrega lineas en blanco --->
 
