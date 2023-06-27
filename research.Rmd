@@ -1,0 +1,71 @@
+---
+pagetitle : Research - Jorge L. Montero-Mestre
+---
+
+<br>  </br> <!--- Agrega lineas en blanco --->
+
+<!------------- Panel de la izquierda ------------->
+<div class="col-sm-9">
+
+# Working papers
+
+<p>  </p> <!--- Agrega una linea en blanco --->
+
+<!--- Documento 1 --->
+
+* <strong style="color:black;font-size:22px;"> Protecting the oceans: Marine conservation efforts and their effects on industrial fishing </strong>  [[PDF]](https://jorgephd.github.io/jorge-montero.github.io/research/MPAs_Fishing_MRE_vf.pdf) [[Slides here]](https://github.com/JorgePhD/jorge-montero.github.io/blob/main/research/Final_Slides_JM.pdf)
+
+ <p align="justify"> **Abstrac:** I evaluate the effect of Marine Protected Areas (MPAs) on industrial fishing globally. Using comprehensive data on global fishing and spatial regression discontinuity methods, I estimate the causal effect of MPAs on industrial fishing effort. My main result indicates that protected areas with a stricter protection designation significantly reduce fishing efforts. I find that, on average, fishing efforts have been reduced by 30.5\% of the total hours of fishing per $km^2$ globally, between 2016 - 2020. I also find a concentration of fishing activity just inside of the border of some protected areas, suggesting strategic behavior by vessels, especially in MPAs with no designation and no clear restriction designation. </p>
+
+<!--- Documento 2 --->
+
+* <strong style="color:black;font-size:22px;"> Unmasking the Threat to Property Rights: Unauthorized Fishing Activity during the COVID-19 Pandemic </strong> [[PDF]](https://github.com/JorgePhD/jorge-montero.github.io/blob/main/research/Lockdown_and_Fishing.pdf)
+
+ <p align="justify"> **Abstrac:** The global health crisis has disrupted economic activities and posed significant challenges to fisheries management and enforcement. In this paper, I examine the impact of the COVID-19 pandemic on property rights in the context of unauthorized fishing activity. This study investigates to what extent the pandemic has led to an increase in unauthorized fishing, potentially undermining existing property rights systems. To do so, I compile a comprehensive database with weekly, country-level fishing effort data for 146 countries before and after the COVID-19 lockdowns and international fishing access agreements data. I employ a combination of Regression Discontinuity Design and Differences in Differences approaches to shed light on the consequences of the pandemic for marine resource governance. The findings indicate that the implementation of restrictions resulted in a decrease in overall fishing efforts; however, unauthorized fishing activity saw an increase. These results are robust to various model specifications and robustness checks. This paper offers valuable insights for policymakers and stakeholders aiming to protect and strengthen property rights in the face of unforeseen disruptions. </p>
+
+<!--- Documento 3 --->
+
+* <strong style="color:black;font-size:22px;">A territorial approach to sustainable development: from WEF to WELF nexus.</strong> [[PDF]](https://github.com/JorgePhD/jorge-montero.github.io/blob/main/research/WELF%20nexus%20paper.pdf)
+
+<p align="justify"> **Abstrac:** This paper emphasizes the importance of incorporating the land perspective (L) into Water-Energy-Food (WEF) nexus approaches. While the WEF nexus has gained attention to achieve interdependent sustainable development goals, interactions among its nexus elements are context-specific and strongly influenced by land use changes. We present an analytical framework to study the extent to which land use changes impact the composition and resilience of the WELF nexus. By maximizing resilience, policymakers can design more effective and targeted policies for achieving long-term sustainable development goals. This is because greater resilience improves the capacity of land use systems to manage uncertainties and recover from disruptions like climate change or political instability. Our framework is applied to the case of Maria La Baja, a sub-watershed situated in the Colombian Caribbean. The results show that the WELF nexus manifests differently across different scales, wherein agriculture (Food) consistently emerges as a crucial factor in maximizing resilience. The significance of other nexus elements like Energy and Water varies considerably depending on the scale of analysis. Other factors like abandonment of agricultural lands or increased deforestation play a key role in determining resilience at sub-regional scales. Finally, we identify which policies can be most effective in maximizing resilience. </p>
+
+
+<!--- Work in progress --->
+
+# Work in progress
+
+A network analysis of international fishing access agreements and industrial fishing efforts. (with Jorge Marco)
+
+Fishing shocks effects on education in Colombia: Evidence from a Natural Experiment. (With Jaime Polanco)
+
+Measuring the MPA-related spatial displacement of industrial fishing efforts.
+
+</div>
+<!------------- Panel de la izquierda ------------->
+
+
+<!------------- Panel de la derecha ------------->
+<div class="col-sm-3">
+
+#### Jorge L. Montero-Mestre
+ 
+<!-- Correo -->
+<p style="color:black;font-size:12px;"><img alt="Qries" src="./images/correo.png" width=20" height="20"> jl.montero@uniandes.edu.co </img></p>
+
+<!-- Correo -->
+<p style="color:black;font-size:12px;"><img alt="Qries" src="./images/correo.png" width=20" height="20"> jmonteromestre@gmail.com </img></p>
+
+<!-- Tel -->
+<p style="color:black;font-size:12px;"><img alt="Qries" src="./images/tel.png" width=20" height="20"> (+571) 3394949 Ext: 4799</img></p>
+
+<!-- Twitter -->
+ <a href="https://twitter.com/jorgelmm0809" style="color:black;font-size:12px;"> <img alt="Qries" src="./images/twitter.jpg" width=20" height="20">  @jorgelmm0809</a> 
+
+<!-- GitHub -->
+<a href="https://github.com/JorgePhD" style="color:black;font-size:12px;"> <img alt="Qries" src="./images/github.png" width=20" height="20">  JorgePhD</a>
+</div>
+<!------------- Panel de la derecha ------------->
+
+
+
+<br>  </br> <!--- Agrega lineas en blanco --->
