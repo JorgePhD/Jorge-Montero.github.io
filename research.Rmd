@@ -13,32 +13,74 @@ pagetitle : Research - Jorge L. Montero-Mestre
 
 <!--- Documento 1 --->
 
-* <strong style="color:black;font-size:22px;"> Protecting the oceans: Marine conservation efforts and their effects on industrial fishing </strong>  [[PDF]](https://jorgephd.github.io/jorge-montero.github.io/research/MPAs_Fishing_MRE_vf.pdf) [[Slides here]](https://github.com/JorgePhD/jorge-montero.github.io/blob/main/research/Final_Slides_JM.pdf)
+* <strong style="color:black;font-size:22px;"> Navigating Conservation Seas: Estimating Marine Protected Areas Effectiveness and Unveiling the Intricacies of Industrial Fishing Behavior </strong>  [[PDF]](https://jorgephd.github.io/jorge-montero.github.io/research/MPAs_Fishing_MRE_vf.pdf) [[Slides here]](https://github.com/JorgePhD/jorge-montero.github.io/blob/main/research/Final_Slides_JM.pdf) with [Jorge Maldonado](https://economia.uniandes.edu.co/maldonado)
 
- <p align="justify"> **Abstrac:** I evaluate the effect of Marine Protected Areas (MPAs) on industrial fishing globally. Using comprehensive data on global fishing and spatial regression discontinuity methods, I estimate the causal effect of MPAs on industrial fishing effort. My main result indicates that protected areas with a stricter protection designation significantly reduce fishing efforts. I find that, on average, fishing efforts have been reduced by 30.5% of the total hours of fishing per km2 globally, between 2016 - 2020. I also find a concentration of fishing activity just inside of the border of some protected areas, suggesting strategic behavior by vessels, especially in MPAs with no designation and no clear restriction designation. </p>
+ <p align="justify"> **Abstrac:** Marine Protected Areas (MPAs) are the primary tool for marine conservation, promoting the sustainable
+use of marine resources. We examine the dynamics and behavior of industrial fishing vessels around MPAs,
+using comprehensive global fishing data to analyze whether these vessels are deterred by MPAs. Through
+spatial regression discontinuity models, we quantify the effect of the existence of MPAs on the number of
+hours of fishing activity conducted by industrial vessels. We find that MPAs have been effective in reducing
+fishing efforts within their areas; however, this effect is not homogeneous across all protected areas. We
+also find evidence of strategic behavior by vessels, which consider the probabilities of being caught and
+penalized, along with the benefits of engaging in fishing activities within MPAs, taking into account the
+implicit monitoring and control capacities of each protected area. This article provides relevant evidence
+to strengthen marine conservation and the management of marine protected areas by gaining a clearer
+understanding of the behavior of industrial fishing vessels. </p>
 
 <!--- Documento 2 --->
 
-* <strong style="color:black;font-size:22px;"> Unmasking the Threat to Property Rights: Unauthorized Fishing Activity during the COVID-19 Pandemic </strong> [[PDF]](https://github.com/JorgePhD/jorge-montero.github.io/blob/main/research/Lockdown_and_Fishing.pdf)
+* <strong style="color:black;font-size:22px;"> Unmasking the Threat to Property Rights: Unauthorized Fishing Activity during the COVID-19 Pandemic </strong> [[PDF]](https://github.com/JorgePhD/jorge-montero.github.io/blob/main/research/Lockdown_and_Fishing.pdf) [[Slides here]](https://github.com/JorgePhD/jorge-montero.github.io/blob/main/research/Slides_Lockdown_and_Fishing170424.pdf)
 
- <p align="justify"> **Abstrac:** The global health crisis has disrupted economic activities and posed significant challenges to fisheries management and enforcement. In this paper, I examine the impact of the COVID-19 pandemic on property rights in the context of unauthorized fishing activity. This study investigates to what extent the pandemic has led to an increase in unauthorized fishing, potentially undermining existing property rights systems. To do so, I compile a comprehensive database with weekly, country-level fishing effort data for 146 countries before and after the COVID-19 lockdowns and international fishing access agreements data. I employ a combination of Regression Discontinuity Design and Differences in Differences approaches to shed light on the consequences of the pandemic for marine resource governance. The findings indicate that the implementation of restrictions resulted in a decrease in overall fishing efforts; however, unauthorized fishing activity saw an increase. These results are robust to various model specifications and robustness checks. This paper offers valuable insights for policymakers and stakeholders aiming to protect and strengthen property rights in the face of unforeseen disruptions. </p>
+ <p align="justify"> **Abstrac:** The global health crisis has disrupted economic activities and posed significant challenges
+to fisheries management and enforcement. In this paper, I examine the impact of the COVID-
+19 pandemic on property rights in the context of unauthorized fishing activity. This study
+investigates to what extent the pandemic has led to an increase in unauthorized fishing, potentially
+undermining existing property rights systems. To do so, I compile a comprehensive
+database with weekly, country-level fishing effort data for 146 countries before and after the
+COVID-19 lockdowns and international fishing access agreements data. I employ Differences
+in Differences approaches to shed light on the consequences of the pandemic for marine resource
+governance. The findings indicate that the implementation of restrictions resulted in
+a decrease in overall fishing efforts; however, unauthorized fishing activity saw an increase.
+Heterogeneous effects are found when I consider income-country variable, and Ocean Health
+Index components. Results suggests that industrial vessel are responsive to economics incentives.
+This paper offers valuable insights for policymakers and stakeholders aiming to protect
+and strengthen property rights in the face of unforeseen disruptions. </p>
 
 <!--- Documento 3 --->
 
-* <strong style="color:black;font-size:22px;">Towards Resilient Land Use Systems. A Multi-Scale Network Analysis for the Water-Energy-Land-Food Nexus.</strong> [[PDF]](https://github.com/JorgePhD/jorge-montero.github.io/blob/main/research/WELF%20nexus%20paper.pdf) with [Jorge Marco](https://www.efdinitiative.org/about-efd/people/renau-jorge-marco), [Miguel Ramirez](https://co.linkedin.com/in/mianr13), [William Martinez], [Alicia Correa](https://alycorreab585.wixsite.com/misitio), [Nadia Combariza](https://www.uni-giessen.de/de/fbz/zentren/zeu/Team/zeumembersall/NCombariza/NCombariza), and [Ivan Lizarazo](http://www.cienciasagrarias.bogota.unal.edu.co/iv%C3%A1n-alberto-lizarazo-salcedo).
+* <strong style="color:black;font-size:22px;">Towards Resilient Land Use Systems. A Multi-Scale Network Analysis for the Water-Energy-Land-Food Nexus.</strong> with [Jorge Marco](https://www.efdinitiative.org/about-efd/people/renau-jorge-marco), [Miguel Ramirez](https://co.linkedin.com/in/mianr13), [William Martinez], [Ivan Lizarazo](http://www.cienciasagrarias.bogota.unal.edu.co/iv%C3%A1n-alberto-lizarazo-salcedo), [Jorge Forero], [Ali Kharrazi](https://iiasa.ac.at/staff/ali-kharrazi) , [Nadia Combariza](https://www.uni-giessen.de/de/fbz/zentren/zeu/Team/zeumembersall/NCombariza/NCombariza), and [Alicia Correa](https://alycorreab585.wixsite.com/misitio).
 
-<p align="justify"> **Abstrac:** This paper emphasizes the importance of incorporating the land perspective (L) into Water-Energy-Food (WEF) nexus approaches. While the WEF nexus has gained attention to achieve interdependent sustainable development goals, interactions among its nexus elements are context-specific and strongly influenced by land use changes. We present an analytical framework to study the extent to which land use changes impact the composition and resilience of the WELF nexus. By maximizing resilience, policymakers can design more effective and targeted policies for achieving long-term sustainable development goals. This is because greater resilience improves the capacity of land use systems to manage uncertainties and recover from disruptions like climate change or political instability. Our framework is applied to the case of Maria La Baja, a sub-watershed situated in the Colombian Caribbean. The results show that the WELF nexus manifests differently across different scales, wherein agriculture (Food) consistently emerges as a crucial factor in maximizing resilience. The significance of other nexus elements like Energy and Water varies considerably depending on the scale of analysis. Other factors like abandonment of agricultural lands or increased deforestation play a key role in determining resilience at sub-regional scales. Finally, we identify which policies can be most effective in maximizing resilience. </p>
+<p align="justify"> **Abstrac:** We develop an analytical framework to assess the impact of land use changes on the
+composition and resilience of the Water-Energy-Land-Food (WELF) nexus. Because
+WELF comprises integral components of land use systems, effective WELF
+management requires multi-scale assessments due to the diverse interests and drivers
+of change. We apply this framework to the region of Maria La Baja, a Colombian
+Caribbean sub-watershed. Our results reveal variation in the WELF nexus composition
+across different spatial scales, from local to regional, with Food consistently playing a
+crucial role in enhancing resilience. The significance of Energy and Water varies by the
+spatial scale. Other factors, such as the abandonment of agricultural land and
+increased deforestation, play an important role in determining resilience at sub-regional
+scales. We find that a 30% reduction in land transfers among nexus elements
+consistently decreases resilience, while a 30% increase yields mixed effects,
+especially when it involves Food or Water transfers. We find that enhancing resilience
+depends on interconnected factors. These include changes in the two dimensions of
+resilience (efficiency and redundancy), the structure of the interactions of the elements
+of the nexus, and the intensity of land transfers from one element to another.
+Enhancing resilience will assist decision-makers in adapting to uncertainties and
+recovering from disruptions. </p>
 
 
 <!--- Work in progress --->
 
 # Work in progress
 
+Examining the Effects of Fuel Subsidy Program Reforms in China on Unauthorized Fishing Activity in Distant-Water Fleets.
+
+Measuring the MPA-related spatial displacement of industrial fishing efforts.
+
 A network analysis of international fishing access agreements and industrial fishing efforts. (with Jorge Marco)
 
 Fishing shocks effects on education in Colombia: Evidence from a Natural Experiment. (With Jaime Polanco)
-
-Measuring the MPA-related spatial displacement of industrial fishing efforts.
 
 </div>
 <!------------- Panel de la izquierda ------------->
