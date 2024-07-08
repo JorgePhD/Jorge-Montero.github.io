@@ -8,7 +8,7 @@ pagetitle : Home - Jorge L. Montero-Mestre
 <div class="col-sm-4">
 
 <!-- Foto completa -->
-<img src="./images/image2.png" class="center" alt="drawing" width="200" height="235"/>
+<img src="./images/image2.png" class="center" alt="drawing" width="250" height="250"/>
 
 #### Jorge L. Montero-Mestre
 
