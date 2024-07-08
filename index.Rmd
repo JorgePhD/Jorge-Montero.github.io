@@ -40,9 +40,9 @@ Economics PhD candidate at Universidad de los Andes, interested in Applied Econo
 
 #### About me
 
-As a PhD candidate in Economics at Universidad de los Andes (Uniandes), I am passionate about applying economics to social and environmental problems, and contributing to the sustainable development of my country and the region. My research focuses on the field of Environmental and Development Economics, with a particular interest in illegal and unreported fishing, and the analysis of the effects of conservation instruments on fishing activity.
+I am an applied environmental economist with exceptional skills in quantitative analysis, applied econometric modeling, and spatial data analysis. My research focuses on the field of Environmental and Development Economics, with a particular interest in illegal and unreported fishing, and the analysis of conservation instruments effectiveness.
 
-In addition to my research, I also teach courses in Econometrics I, Environmental and Natural Resource Economics, and Introduction to Macroeconomics, both at the undergraduate and graduate level, as a graduate teaching assistant at Uniandes. I have a master's degree in Economics from Uniandes and a bachelor's degree in Economics from Universidad de Cartagena, Colombia. I have published two working papers on regional economics, and I have been a visiting student at Universidad Complutense de Madrid, Justus-Liebig University of Giessen, Wageningen University and Research, and Technical University of Munich.
+In addition to my research, I also teach courses in Econometrics and causal inference methods, Statistical & R Programming, and Environmental and Natural Resource Economics, both at the undergraduate and graduate level, as a graduate teaching assistant at Universidad de los Andes. I have a master's degree in Economics from Uniandes and a bachelor's degree in Economics from Universidad de Cartagena, Colombia. I have been a visiting student at Universidad Complutense de Madrid, Justus-Liebig University of Giessen, Wageningen University and Research, and Technical University of Munich. 
 
 Programming skills: Python, R, Bigquery and Stata.
 Languages: Spanish and  English
