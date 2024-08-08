@@ -15,15 +15,18 @@ pagetitle : Research - Jorge L. Montero-Mestre
 
 * <strong style="color:black;font-size:22px;"> [JMP] Unmasking the Threat to Property Rights: Unauthorized Fishing Activity during the COVID-19 Pandemic </strong> [[PDF]](https://github.com/JorgePhD/jorge-montero.github.io/blob/main/research/Lockdown_and_Fishing.pdf) [[Slides here]](https://github.com/JorgePhD/jorge-montero.github.io/blob/main/research/Slides_Lockdown_and_Fishing170424.pdf) with [Jorge Bonilla](https://jobonill.wixsite.com/jorgebonilla)
 
- <p align="justify"> **Abstrac:** The global health crisis has disrupted economic activities and posed significant challenges to fisheries management, control, 
-and surveillance. In this paper, we examine the impact of the COVID-19 pandemic on property rights in the context of unauthorized fishing activity providing 
-theoretical and empirical evidences. This study investigates to what extent the pandemic has led to an increase in unauthorized fishing, potentially 
-undermining existing property rights systems. To do so, we compile a comprehensive database with weekly, country-level fishing effort data for 146 countries 
-before and during the COVID-19 lockdowns and international fishing access agreements data. We employ  Differences in Differences approaches to shed light on 
-the consequences of the pandemic for marine resource governance. The findings indicate that the stringency of the restrictions led to a decrease in authorized 
-fishing efforts. However, unauthorized fishing hours increased, but we did not find any effects on the number of vessels engaged in unauthorized fishing due to 
-the onset of the lockdowns. The increase in unauthorized fishing hours was higher in low- and middle-income countries, and in areas with a higher biodiversity 
-index. These results inform the design of control policies by understanding the motivations of fishermen in low-monitoring scenarios. </p>
+ <p align="justify"> **Abstrac:** The global health crisis has disrupted economic activities and posed significant challenges
+       to fisheries management, control, and surveillance. In this paper, we examine the impact of the COVID-19 pandemic 
+       on property rights in the context of unauthorized fishing activity providing theoretical and empirical evidences. 
+       This study investigates to what extent the pandemic has led to an increase in unauthorized fishing, potentially 
+       undermining existing property rights systems. To do so, we compile a comprehensive database with weekly, country-level 
+       fishing effort data for 146 countries before and during the COVID-19 lockdowns and international fishing access agreements 
+       data. We employ  Differences in Differences approaches to shed light on the consequences of the pandemic for marine resource 
+       governance. The findings indicate that the stringency of the restrictions led to a decrease in authorized fishing efforts. 
+       However, unauthorized fishing hours increased, but we did not find any effects on the number of vessels engaged in unauthorized 
+       fishing due to the onset of the lockdowns. The increase in unauthorized fishing hours was higher in low- and middle-income countries, 
+       and in areas with a higher biodiversity index. These results inform the design of control policies by understanding the motivations of 
+       fishermen in low-monitoring scenarios. </p>
 
 <!--- Documento 2 --->
 
