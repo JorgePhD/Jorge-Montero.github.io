@@ -13,48 +13,29 @@ pagetitle : Research - Jorge L. Montero-Mestre
 
 <!--- Documento 1 --->
 
-* <strong style="color:black;font-size:22px;"> [JMP] Unmasking the Threat to Property Rights: Unauthorized Fishing Activity during the COVID-19 Pandemic </strong> [[PDF]](https://github.com/JorgePhD/jorge-montero.github.io/blob/main/research/Lockdown_and_Fishing.pdf) [[Slides here]](https://github.com/JorgePhD/jorge-montero.github.io/blob/main/research/Slides_Lockdown_and_Fishing170424.pdf) with [Jorge Bonilla](https://jobonill.wixsite.com/jorgebonilla)
+* <strong style="color:black;font-size:22px;"> [JMP] Unmasking the Threat to Property Rights: Unauthorized Fishing Activity during the COVID-19 Pandemic </strong> [[PDF]](https://jorgephd.github.io/jorge-montero.github.io/research/Lockdown_and_Fishing.pdf) [[Slides here]](https://github.com/JorgePhD/jorge-montero.github.io/blob/main/research/Slides_Lockdown_and_Fishing170424.pdf) with [Jorge Bonilla](https://jobonill.wixsite.com/jorgebonilla)
 
- <p align="justify"> **Abstrac:** The global health crisis has disrupted economic activities and posed significant challenges
-       to fisheries management, control, and surveillance. In this paper, we examine the impact of the COVID-19 pandemic 
-       on property rights in the context of unauthorized fishing activity providing theoretical and empirical evidences. 
-       This study investigates to what extent the pandemic has led to an increase in unauthorized fishing, potentially 
-       undermining existing property rights systems. To do so, we compile a comprehensive database with weekly, country-level 
-       fishing effort data for 146 countries before and during the COVID-19 lockdowns and international fishing access agreements 
-       data. We employ  Differences in Differences approaches to shed light on the consequences of the pandemic for marine resource 
-       governance. The findings indicate that the stringency of the restrictions led to a decrease in authorized fishing efforts. 
-       However, unauthorized fishing hours increased, but we did not find any effects on the number of vessels engaged in unauthorized 
-       fishing due to the onset of the lockdowns. The increase in unauthorized fishing hours was higher in low- and middle-income countries, 
-       and in areas with a higher biodiversity index. These results inform the design of control policies by understanding the motivations of 
-       fishermen in low-monitoring scenarios. </p>
+ <p align="justify"> **Abstrac:** The global health crisis has disrupted economic activities and posed significant challenges to fisheries management, control, and surveillance. In this paper, we examine the impact of the COVID-19 pandemic on property rights in the context of unauthorized fishing activity providing theoretical and empirical evidences. This study investigates to what extent the pandemic has led to an increase in unauthorized fishing, potentially undermining existing property rights systems. To do so, we compile a comprehensive database with weekly, country-level fishing effort data for 146 countries before and during the COVID-19 lockdowns and international fishing access agreements data. We employ  Differences in Differences approaches to shed light on the consequences of the pandemic for marine resource governance. The findings indicate that the stringency of the restrictions led to a decrease in authorized fishing efforts. However, unauthorized fishing hours increased, but we did not find any effects on the number of vessels engaged in unauthorized fishing due to the onset of the lockdowns. The increase in unauthorized fishing hours was higher in low- and middle-income countries, and in areas with a higher biodiversity index. These results inform the design of control policies by understanding the motivations of fishermen in low-monitoring scenarios.
+ </p>
 
 <!--- Documento 2 --->
 
-* <strong style="color:black;font-size:22px;"> Navigating Conservation Seas: Estimating Marine Protected Areas Effectiveness and Unveiling the Intricacies of Industrial Fishing Behavior </strong>  [[PDF]](https://jorgephd.github.io/jorge-montero.github.io/research/MPAs_Fishing_MRE_vf.pdf) [[Slides here]](https://github.com/JorgePhD/jorge-montero.github.io/blob/main/research/Final_Slides_JM.pdf) with [Jorge Maldonado](https://economia.uniandes.edu.co/maldonado)
+* <strong style="color:black;font-size:22px;"> Illuminating the Shadows: Assessing Compliance and Effectiveness in Marine Protected Areas with Satellite Imagery and AIS Data </strong>  [[PDF]](https://jorgephd.github.io/jorge-montero.github.io/research/MPAs_Fishing_MRE_vf.pdf) [[Slides here]](https://github.com/JorgePhD/jorge-montero.github.io/blob/main/research/Final_Slides_JM.pdf) with [Jorge Maldonado](https://economia.uniandes.edu.co/maldonado)
 
- <p align="justify"> **Abstrac:** Marine Protected Areas (MPAs) are the primary tool for marine conservation, promoting the sustainable
-use of marine resources. We examine the dynamics and behavior of industrial fishing vessels around MPAs,
-using comprehensive global fishing data to analyze whether these vessels are deterred by MPAs. Through
-spatial regression discontinuity models, we quantify the effect of the existence of MPAs on the number of
-hours of fishing activity conducted by industrial vessels. We find that MPAs have been effective in reducing
-fishing efforts within their areas; however, this effect is not homogeneous across all protected areas. We
-also find evidence of strategic behavior by vessels, which consider the probabilities of being caught and
-penalized, along with the benefits of engaging in fishing activities within MPAs, taking into account the
-implicit monitoring and control capacities of each protected area. This article provides relevant evidence
-to strengthen marine conservation and the management of marine protected areas by gaining a clearer
-understanding of the behavior of industrial fishing vessels. </p>
+ <p align="justify"> **Abstrac:** Marine Protected Areas (MPAs) are an essential instrument for marine conservation, aimed at promoting the sustainable use of marine resources. In this study, I examine the dynamics and behavior of industrial fishing vessels in relation to MPAs, leveraging extensive global fishing data. I assess vessel compliance by evaluating their presence within MPAs, using both Automatic Identification System (AIS) data and satellite imagery. The main findings indicate that MPAs significantly reduce industrial fishing activity within their boundaries, with a more pronounced reduction observed in MPAs with higher levels of fishing protection. These findings hold true when using both satellite imagery and AIS data. Differences arise when focusing on Indonesia. In terms of biological conditions for fishing, those MPAs with more favorable fishing conditions tend to experience lower activity compared to other regions, highlighting their effectiveness in preserving these ecosystems. Additionally, evidence suggests that the COVID-19 pandemic led to significant increases in detected activity within MPAs. This research provides valuable insights for strengthening marine conservation efforts and enhancing MPA management by offering a deeper understanding of industrial fishing vessel behavior.
+ </p>
 
 
 <!--- Documento 3 --->
 
-* <strong style="color:black;font-size:22px;"> Examining the Effects of Fuel Subsidy on Unauthorized Fishing Activity: the Case of the Program Reforms in China on Large Trawler Fleets </strong> [[PDF]](https://github.com/JorgePhD/jorge-montero.github.io/blob/main/research/Fuel_Subsidies_Fishing.pdf)
+* <strong style="color:black;font-size:22px;"> Fueling the Tensions: Examining the Effects of Fuel Subsidy on Chinese Fleets Compliance </strong> [[PDF]](https://jorgephd.github.io/jorge-montero.github.io/research/Fuel_Subsidies_Fishing.pdf)
 
- <p align="justify"> **Abstrac:** In recent years, there has been significant discussion regarding the impacts of input subsidies on the sustainability of marine ecosystems, particularly in terms of promoting overexploitation through the marginal reduction of costs; moreover, IUU fishing has significant implications for the sustainability of many fisheries worldwide. Using a newly released dataset, I examine the impact of the fuel subsidies provision on fishing activity and unauthorized fishing following a fuel subsidy program reform introduced in 2016 by Chinese government. The Chinese fishing fleet is the largest in the world, with its coverage extending globally. The Chinese government has been known for providing a wide variety of subsidies within its economy to bolster its economic position relative to other world economies. In 2016, China introduced a reform to its fuel subsidy program for fishing fleets due to high levels of subsidy expenditure, fuel consumption, and overfishing. By leveraging the discontinuities introduced by the reform, I identified that access to input subsidies created distortions in the benefit function of fisheries. This was evidenced by an increase in distant water fishing activity and in unauthorized fishing hours. </p>
+ <p align="justify"> **Abstrac:** In recent years, there has been significant discussion regarding the impacts of input subsidies on the sustainability of marine ecosystems, particularly in terms of promoting overexploitation through the marginal reduction of costs; moreover, Illegal, Unauthorized, and Unreported (IUU) fishing has significant implications for the sustainability of many fisheries worldwide. Using a newly released dataset, I examine the impact of the fuel subsidies provision on fishing activity and unauthorized fishing following a fuel subsidy program reform introduced in 2016 by the Chinese government. The Chinese government has been known for providing a wide variety of subsidies within its economy to bolster its economic position relative to other world economies. In 2016, China introduced a reform to its fuel subsidy program for fishing fleets due to high levels of subsidy expenditure, fuel consumption, and overfishing. By leveraging the discontinuities introduced by the reform, I find that after the reform, the hours of unauthorized fishing increased, particularly in Taiwan and in disputed areas. Vessels that receive a greater amount of subsidies reduce their activity within national waters and increase their operations in foreign waters, potentially leading to overexploitation of fish stocks in international waters and conflicts with neighboring countries over disputed fishing grounds. The results suggest that subsidies decrease the level of compliance among fishermen and encourage IUU fishing. </p>
 
 
 <!--- Documento 4 --->
 
-* <strong style="color:black;font-size:22px;">Towards Resilient Land Use Systems. A Multi-Scale Network Analysis for the Water-Energy-Land-Food Nexus.</strong> with [Jorge Marco](https://www.efdinitiative.org/about-efd/people/renau-jorge-marco), [Miguel Ramirez](https://co.linkedin.com/in/mianr13), [William Martinez], [Ivan Lizarazo](http://www.cienciasagrarias.bogota.unal.edu.co/iv%C3%A1n-alberto-lizarazo-salcedo), [Jorge Forero], [Ali Kharrazi](https://iiasa.ac.at/staff/ali-kharrazi) , [Nadia Combariza](https://www.uni-giessen.de/de/fbz/zentren/zeu/Team/zeumembersall/NCombariza/NCombariza), and [Alicia Correa](https://alycorreab585.wixsite.com/misitio).
+* <strong style="color:black;font-size:22px;">Assessing Resilience in the Water-Energy-Land-Food Nexus: A Multi-Scale Approach in the Colombian Caribbean.</strong> with [Jorge Marco](https://www.efdinitiative.org/about-efd/people/renau-jorge-marco), [Miguel Ramirez](https://co.linkedin.com/in/mianr13), [William Martinez], [Ivan Lizarazo](http://www.cienciasagrarias.bogota.unal.edu.co/iv%C3%A1n-alberto-lizarazo-salcedo), [Jorge Forero], [Ali Kharrazi](https://iiasa.ac.at/staff/ali-kharrazi) , [Nadia Combariza](https://www.uni-giessen.de/de/fbz/zentren/zeu/Team/zeumembersall/NCombariza/NCombariza), and [Alicia Correa](https://alycorreab585.wixsite.com/misitio).
 
 <p align="justify"> **Abstrac:** We develop an analytical framework to assess the impact of land use changes on the
 composition and resilience of the Water-Energy-Land-Food (WELF) nexus. Because
@@ -82,9 +63,9 @@ recovering from disruptions. </p>
 
 MPA governance and fishing activity in Indonesia. (With Andries Richter and Anna Abatayo)
 
-A network analysis of international fishing access agreements and industrial fishing efforts. (with Jorge Marco)
+Impacts of dams on freshwater fish diversity in amazon. (with Ben Chipperfield)
 
-Fishing shocks effects on education in Colombia: Evidence from a Natural Experiment. (With Jaime Polanco)
+Fishery bans and local development.
 
 </div>
 <!------------- Panel de la izquierda ------------->
