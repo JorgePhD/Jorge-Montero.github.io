@@ -13,7 +13,7 @@ navbar:
     - text: "Research"
       href: research.html
     - text: "CV"
-      href: https://jorgephd.github.io/jorge-montero.github.io//cv/Cv_JorgeMontero.pdf
+      href: https://jorgephd.github.io/jorge-montero.github.io/cv/Cv_JorgeMontero.pdf
     - text: "Teaching"
       href: teaching.html
     
